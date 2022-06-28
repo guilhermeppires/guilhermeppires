@@ -6,7 +6,7 @@
 Estudando Linguagens:
 <div>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="NextJs" height="30" width="30" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">         
 </div>
@@ -22,8 +22,7 @@ Conhecimento em:
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">    
 </div>
 
-<br>
-<br>
+##
 
 <div align="center">
   <a href="https://github.com/killcraftzone">
