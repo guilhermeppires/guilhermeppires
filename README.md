@@ -1,5 +1,5 @@
 
-## Bem vindo - Eu sou o Guilherme Pires, Analista de sistemas e estudante de Sistemas de Informação! 
+## Bem vindo - Eu sou o Guilherme Pires, Analista de sistemas e Bacharelado em Sistemas de Informação! 
 
 <br>
 
